@@ -1,6 +1,6 @@
 {
-    "name": "nodetest2b",
-    "version": "0.0.0",
+    "name": "babyCRM",
+    "version": "0.0.1",
     "private": true,
     "scripts": {
         "start": "node ./bin/www"
